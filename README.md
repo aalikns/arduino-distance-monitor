@@ -44,6 +44,10 @@ The ultrasonic sensor sends sound waves and measures the time it takes for the e
 
 ![Project Photo](image.HEIC)
 
+## Circuit Diagram
+
+![Circuit Diagram](circuit-diagram.png)
+
 ## Code Explanation
 The Arduino triggers the ultrasonic sensor, measures the echo duration using `pulseIn()`, calculates the distance in centimeters, and displays the result on the LCD.
 
