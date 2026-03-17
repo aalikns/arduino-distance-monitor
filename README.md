@@ -37,8 +37,11 @@ The ultrasonic sensor sends sound waves and measures the time it takes for the e
 
 ## Features
 - Real-time distance measurement
-- LCD display output
 - Simple embedded system design
+- Distance measurement range: ~2cm to 400cm
+- Real-time LCD display output
+- Uses ultrasonic sensing (HC-SR04)
+- Refresh rate: ~2-3 measurements per second
 
 ## Demo
 
